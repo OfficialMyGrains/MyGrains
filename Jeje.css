@@ -1,0 +1,211 @@
+
+
+body{
+	margin:0;
+
+	background-color:#2D362C;
+}
+
+#corben{
+	border-radius:20px;
+
+	align-items:center;
+
+	background-color: #455344;
+
+	position: srelative;
+	top: 0px;
+	margin:20px;
+	box-shadow: 1px 2px 5px #2D362C;
+	color:#FFFFFF;
+	padding-bottom: 20px;
+	
+}
+
+#korben{
+	border-radius:20px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	 box-shadow: 1px 2px 5px #2D362C;
+	background-color: #455344;
+	height: 70;
+	position: sticky;
+	top: 0px;
+	margin:20px;
+	color:#FFFFFF;
+	
+}
+.korby-logo{
+	padding-top:1px;
+	padding-left:10px;
+}
+
+
+
+.title{
+	font-size:large;
+	font-weight:bold;
+	padding-top:15px;
+
+}
+.SUCKYUWU{
+	height:45px;
+	width:100px;
+	border:1px solid black;
+	border-radius:20px;
+	padding-right:20px;
+
+	padding-left:10px;
+	 box-shadow: 1px 2px 5px #9c7864;
+	 flex-shrink:100;
+	 min-width:10px;
+	
+}
+
+.eyo{
+	width:100px;
+}
+
+.title{
+	padding-top:3px;
+	padding-bottom:10px;
+}
+.korben-foot{
+	padding-top:10px;
+	display:flex;
+	margin:0px;
+	color:#ffffff;
+	position:relative;
+	bottom:0px;
+	top:50px;
+	background-color:#1f251e;
+
+	height:auto;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.benkor{
+	padding-top:10px;
+	font-weight: 600;
+	min-width:50px;
+	padding-right:20px;
+}
+
+.daddy{
+	margin-right:20px;
+}
+
+.baby{
+	position:relative;
+	right:20px;
+}
+.bruh{
+	display:flex;
+
+	align-items:center;
+}
+.aw{
+	flex-wrap:wrap;
+
+	display:flex;
+	padding:30px;
+
+
+}
+.wow{
+	
+    display: flex;
+    position: sticky;
+    top: 0;
+    
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.hell{
+	margin-right:100px;
+	min-width:50px;
+	padding-top:20px;
+	width:180px;
+}
+.anjelabkorben{
+	margin:50px;
+	margin-left:30px;
+}
+
+.hey{
+	margin:40px;
+}
+.eybby{
+	
+	position:nonstatic;
+	left:auto;
+	right:auto;
+}
+.HUH{
+
+	width: 100%;
+}
+.uwu{
+	margin:0;
+}
+.hh{
+	padding-bottom:10px;
+}
+.korbyB{
+	font-size:10px;
+	word-spacing:2px;
+	width:100%;
+	background-color:#131812;
+
+	text-align:center;
+}
+.korbyB span{
+	font-weight:200;
+	opacity:.4;
+}
+.korben-foot p{
+	text-align:center;
+	max-width:300px;
+	font-size:14px;
+	line-height:25px;
+	margin:10px auto;
+}
+.korben-foot h3{
+	font-weight:400;
+	font-size:1.8rem;
+
+}
+@media screen and (min-width: 1200px) {
+	.hyhy{
+		font-weight:400;
+		font-size:8rem;
+	}
+	.pr{
+		font-weight:400;
+		font-size:3rem;
+	}
+}
+.ety{
+	display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+	text-align:center;
+	margin-bottom: 15px;
+}
+@media screen and (max-width: 1000px){
+	.hyhy{
+	font-weight:400;
+	font-size:3rem;
+	}
+	.pr{
+		font-weight:400;
+		font-size:1.5rem;
+	}
+}
